@@ -1,0 +1,8 @@
+{
+  "name": "BirdBGone",
+  "version_number": "1.1.0",
+  "author": "Eardwulf",
+  "description": "Disables Hugin and the Valkyrie for the current session.",
+  "website_url": "https://github.com/EardwulfC/BirdBGone",
+  "dependencies": [ "denikson-BepInExPack_Valheim-5.4.1901" ]
+}
